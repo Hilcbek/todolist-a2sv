@@ -2,12 +2,17 @@
 
 This is a simple **Todo List** web application built using **HTML**, **CSS**, and **JavaScript**.
 
----
+--
+
+
 
 ## 🚀 Features
+![Add](./assets/add.png)
 - Add new tasks  
 - Edit existing tasks  
+![Edit](./assets/edit.png)
 - Delete tasks  
+![Remove](./assets/remove.png)
 - Clean and responsive design  
 
 ---
